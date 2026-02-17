@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import "./fonts.css";
+
+@theme {
+  --color-neutral-950: #0a0a0a;
+}
